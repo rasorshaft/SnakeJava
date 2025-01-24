@@ -1,2 +1,2 @@
 # SnakeJava
-Snake programmed in Java
+Snake game programmed in Java
